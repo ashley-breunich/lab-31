@@ -8,7 +8,8 @@
 ### Links and Resources
 * [repo](https://github.com/ashley-breunich/lab-31)
 * [Assignment 1](https://codesandbox.io/s/oo3zw065mz)
-* [Assignment 2](http://xyz.com)
+* [Assignment 2](https://codesandbox.io/s/ykv771r7mx)
+
 
 ### Modules
 #### `modulename.js`
@@ -20,22 +21,12 @@ Usage Notes or examples
 ###### `bar(array) -> array`
 Usage Notes or examples
 
-### Setup
-#### `.env` requirements
-* `PORT` - Port Number
-* `MONGODB_URI` - URL to the running mongo instance/db
-
-#### Running the app
-* `npm start`
-* Endpoint: `/foo/bar/`
-  * Returns a JSON object with abc in it.
-* Endpoint: `/bing/zing/`
-  * Returns a JSON object with xyz in it.
 
 #### Tests
 * How do you run tests?
 * What assertions were made?
 * What assertions need to be / should be made?
+
 
 #### UML
 Link to an image of the UML for your application and response to events
