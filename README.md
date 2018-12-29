@@ -1,15 +1,14 @@
 ![CF](http://i.imgur.com/7v5ASc8.png) LAB
 =================================================
 
-## Project Name
+## Lab 31 - REDUX Practice
 
-### Author: Student/Group Name
+### Author: Ashley Breunich
 
 ### Links and Resources
-* [repo](http://xyz.com)
-* [travis](http://xyz.com)
-* [back-end](http://xyz.com)
-* [front-end](http://xyz.com)
+* [repo](https://github.com/ashley-breunich/lab-31)
+* [Assignment 1](https://codesandbox.io/s/oo3zw065mz)
+* [Assignment 2](http://xyz.com)
 
 ### Modules
 #### `modulename.js`
