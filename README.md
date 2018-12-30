@@ -12,20 +12,52 @@
 
 
 ### Modules
-#### `modulename.js`
+## Assignment 1
+
+#### `index.js`
 ##### Exported Values and Methods
 
-###### `foo(thing) -> string`
-Usage Notes or examples
+###### `Main() -> <Provider>`
+-> App Component
 
-###### `bar(array) -> array`
-Usage Notes or examples
+#### `components/app.js`
+##### Exported Values and Methods
 
+###### `Class App -> <div>`
+-> div
+
+###### `mapStateToProps(state)`
+<- state
+-> stuff: state.someStuff
+
+###### `mapDispatchToProps(dispatch, getState)`
+<- dispatch, getState
+-> handleChange
+
+#### `store/actions.js`
+##### Exported Values and Methods
+
+###### `changer(payload)`
+<- payload
+-> type: 'CHANGE'
+-> payload
+
+#### `store/index.js`
+##### Exported Values and Methods
+
+###### `combineReducers()`
+-> someStuff
+
+#### `store/reducers.js`
+##### Exported Values and Methods
+
+###### `export default()`
+<- state, action
+-> if CHANGE, returns foo
+-> if DEFAULT, returns state
 
 #### Tests
-* How do you run tests?
-* What assertions were made?
-* What assertions need to be / should be made?
+* I have tests written for 
 
 
 #### UML
