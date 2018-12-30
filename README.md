@@ -28,10 +28,12 @@
 
 ###### `mapStateToProps(state)`
 <- state
+
 -> stuff: state.someStuff
 
 ###### `mapDispatchToProps(dispatch, getState)`
 <- dispatch, getState
+
 -> handleChange
 
 #### `store/actions.js`
@@ -39,7 +41,9 @@
 
 ###### `changer(payload)`
 <- payload
+
 -> type: 'CHANGE'
+
 -> payload
 
 #### `store/index.js`
@@ -53,13 +57,16 @@
 
 ###### `export default()`
 <- state, action
+
 -> if CHANGE, returns foo
+
 -> if DEFAULT, returns state
 
 #### Tests
-* I have tests written for 
+* 
 
 
 #### UML
 [UML Image for Assignment 1](assets/UML-assignment-1.jpg)
+
 [UML Image for Assignment 2](assets/UML-assignment-2.jpg)
