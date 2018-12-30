@@ -56,4 +56,5 @@ In this assignment, we have a working app that uses Redux for it's state managem
 
 
 ##  Documentation
-Complete the README.md file included in the lab folder
+[UML Image for Assignment 1](assets/UML-assignment-1.jpg)
+[UML Image for Assignment 2](assets/UML-assignment-2.jpg)
