@@ -53,8 +53,3 @@ In this assignment, we have a working app that uses Redux for it's state managem
 ###### Stretch Goals:
 * Do all of this again, but from scratch
 * Add a third reducer and subscribe to both bits of state
-
-
-##  Documentation
-[UML Image for Assignment 1](assets/UML-assignment-1.jpg)
-[UML Image for Assignment 2](assets/UML-assignment-2.jpg)
