@@ -29,4 +29,5 @@ Usage Notes or examples
 
 
 #### UML
-Link to an image of the UML for your application and response to events
+[UML Image for Assignment 1](assets/UML-assignment-1.jpg)
+[UML Image for Assignment 2](assets/UML-assignment-2.jpg)
